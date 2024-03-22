@@ -1,6 +1,4 @@
 # MDN Microfluidics Project
-**Written by Mubasshir Murshed.**
-
 **Last updated:** 15/03/2023
 ## What is this project?
 This project aims to develop a deep learning classification model on spermatozoa morphology. It is conducted by the student engineering group, **Monash Deep Neuron**, with supervision from Dr. Reza Nosrati and PhD candidate, Ms. Sahar Shahali.
