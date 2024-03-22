@@ -1,0 +1,9 @@
+name: mfd
+channels:
+  - defaults
+dependencies:
+  - pytorch-lightning
+  - torchvision
+  - wandb
+  - matplotlib
+  - jupyter
